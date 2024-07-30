@@ -10,3 +10,7 @@ You will return to your original position when you exit spectator mode. This is 
 ## How to install
 
 Download the `ToggleSpectate` folder and put it inside your world datapacks folder. You might have to do a `/reload` to load the newly installed datapack.
+
+## Paypal
+
+https://paypal.me/xMyth25?country.x=MY&locale.x=en_US
